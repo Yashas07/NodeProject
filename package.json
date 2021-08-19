@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashas07/NodeProject.git"
+  },
+  "author": "Yashas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashas07/NodeProject/issues"
+  },
+  "homepage": "https://github.com/Yashas07/NodeProject#readme"
+}
